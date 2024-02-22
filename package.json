@@ -1,0 +1,10 @@
+{
+  "name": "sentry-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/node": "^7.102.0"
+  },
+  "type": "module"
+}
